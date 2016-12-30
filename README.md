@@ -1,6 +1,6 @@
-# Repo for NGAP Spring Cloud config server #
+# Repo for NGAP Config Server #
 
-### The HTTP service has resources in the form:  ###
+### Server has HTTP resources in the form:  ###
 
  * /{application}/{profile}[/{label}]
  * /{application}-{profile}.yml
