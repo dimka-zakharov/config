@@ -1,4 +1,4 @@
-# Repo for Spring Cloud config server #
+# Repo for NGAP Spring Cloud config server #
 
 ### The HTTP service has resources in the form:  ###
 
